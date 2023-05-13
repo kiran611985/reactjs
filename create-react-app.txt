@@ -1,0 +1,5 @@
+npm install -g create-react-app 
+create-react-app crud-react 
+cd crud-react 
+npm install axios react-bootstrap bootstrap 
+npm install react-router-dom sweetalert2 --save
